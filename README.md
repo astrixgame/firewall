@@ -1,2 +1,2 @@
 <h1 align="center">SimpleWall</h1>
-<center>This is fork of simplewall edited and used in TrCraft.</center>
+With this you can create rules to allow or block traffic to and from your server. This can help to prevent unauthorized access to your system by hackers, viruses, and other malicious software. The recoded and enhanced version of Windows Firewall in TrCraft is known for its efficiency and effectiveness in protecting the server and its users from potential threats.
